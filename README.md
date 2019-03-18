@@ -7,3 +7,5 @@ We will use Git to record all of the versions of this file, letting us move back
 For example, in this first version of the file we will say that the cat goes meow.
 
 Edit for the update needed for GitHub
+
+This is my new change, it's wonderful
